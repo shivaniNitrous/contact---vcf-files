@@ -1,0 +1,11 @@
+BEGIN:VCARD
+VERSION:3.0
+N:Doe;John;;;
+FN:John Doe
+ORG:Example Inc.
+TITLE:Web Developer
+TEL;TYPE=WORK,VOICE:+1234567890
+EMAIL:john.doe@example.com
+ADR;TYPE=WORK:;;123 Main Street;City;State;12345;Country
+URL:https://example.com
+END:VCARD
